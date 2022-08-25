@@ -7,7 +7,7 @@ div{
 
 }
 /*Estilo de la foto de perfil*/
-@media (min-width: 576px){
+@media (min-width: 575px){
     
     #fotoPerfil{
         position: absolute;
